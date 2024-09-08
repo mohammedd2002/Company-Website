@@ -53,6 +53,13 @@ return [
     //subscribers
     'subscribers' => 'المشتركين',
 
+    
+//members
+'members'=>'الاعضاء',
+'add_new_member' => 'اضافة عضو جديد',
+'show_member'=>' عرض العضو ',
+'edit_member'=>'تعديل العضو',
+
     //testimonials
     'testimonials' => 'التوصيات',
     'position' => 'المنصب',
