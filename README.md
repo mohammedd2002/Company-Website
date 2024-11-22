@@ -9,7 +9,7 @@ With a focus on localization, security, and reusable components, the system is t
 
 ##### Localization and Translation
 - Integrated Mcamara Localization for a fully multi-language admin dashboard.
-- Dynamically switch between supported languages to enhance the user experience.
+- Dynamically switch between supported languages (EN , ar) to enhance the user experience.
 ##### Authentication & Security
 - Leveraged Laravel Breeze for secure and efficient user authentication.
 - Password hashing and email verification for added security.
